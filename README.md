@@ -11,14 +11,14 @@ skript funguje (snad vacsinou najde Philosophy)
 .
 .
 .
-https://en.wikipedia.org/wiki/Ancient_Greek_language
-True
-https://en.wikipedia.org/wiki/Linguistics
-True
-https://en.wikipedia.org/wiki/Philosophy
-True
-Target ('Philosphy') article reached!
-It took 23 redirects to reach Philosophy
+`https://en.wikipedia.org/wiki/Ancient_Greek_language`
+`True`  
+`https://en.wikipedia.org/wiki/Linguistics`  
+`True`  
+`https://en.wikipedia.org/wiki/Philosophy  
+`True`  
+`Target ('Philosphy') article reached!`  
+`It took 23 redirects to reach Philosophy`
 
 ## nasa.py
 Toto bolo celkom straight-forward, v podstate jednoduchy tool co posle jeden request per spustenie skriptu s upresnujucimi search parametrami,
